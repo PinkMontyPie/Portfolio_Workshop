@@ -16,6 +16,7 @@ body {
   width: 100%;
   margin: 0 auto;
 }
+
 @media (min-width: 640px) {
   .containers {
     max-width: 600px;
@@ -28,7 +29,7 @@ header {
   text-align: center;
 }
 
-.img-proflile {
+.img-profile {
   border-radius: 50%;
   width: 100px;
   height: 100px;
@@ -51,7 +52,7 @@ footer {
 nav {
   display: flex;
   flex-direction: row;
-  justify-content: start;
+  justify-content: center;
   text-align: center;
   gap: 20px;
 }
@@ -136,8 +137,7 @@ svg:hover {
   object-fit: cover;
   object-position: top;
   margin-top: 20px;
-  filter: drop-shadow(0 4px 3px rgb(0 0 0 / 0.07))
-    drop-shadow(0 2px 2px rgb(0 0 0 / 0.06));
+  filter: drop-shadow(0 4px 3px rgb(0 0 0 / 0.07)) drop-shadow(0 2px 2px rgb(0 0 0 / 0.06));
 }
 
 .education-list {
@@ -195,4 +195,13 @@ a {
   display: flex;
   justify-content: space-between;
   align-items: center;
+}
+
+
+.navbar {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
 }

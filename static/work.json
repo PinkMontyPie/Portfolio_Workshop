@@ -1,0 +1,29 @@
+[
+    {
+        "image": "img/Meme-01.jpeg",
+        "alt": "img",
+        "height": 400,
+        "title": "BU Open House 2024 workshop on full-stack web development",
+        "role": "Speaker, TA",
+        "description": "What an incredible day! I had the fantastic opportunity to serve as both a host and speaker at the BU Open House 2024 workshop on full-stack web development. As someone who has been immersed in front-end development, I’m truly grateful for the chance to share my insights and experiences with the next generation of aspiring developers.\n\nA heartfelt thank you to the professors, the organizing team, fellow speakers, TAs, and everyone involved in making this event such a success. Your hard work and dedication truly made a difference! 😊",
+        "link": "https://www.linkedin.com/posts/pinkmontypie_buopenhouse2024-activity-7236725261797314561-ccJ5?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "image": "img/Meme-01.jpeg",
+        "alt": "img",
+        "height": 400,
+        "title": "Microsoft Learn Student Ambassador",
+        "role": "Student Ambassador",
+        "description": "As a Microsoft Learn Student Ambassador, I am responsible for promoting Microsoft Learn and Microsoft technologies to students and developers. I also host workshops and events to help students learn more about Microsoft technologies.",
+        "link": "https://www.linkedin.com/posts/bangkokuniversity_microsofambassadors-bangkokuniversity-ugcPost-7170285057398525952-kC_A?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "image": "img/Meme-01.jpeg",
+        "alt": "img",
+        "height": 400,
+        "title": "Launch of the CoDev Community!",
+        "role": "Speaker, Founder",
+        "description": "👨‍💻Calling all developers! Thrilled to announce the launch of the CoDev Community! This is a space for students and developers to connect, collaborate, share knowledge, learn from each other, discuss the latest tech advancements, and team up to solve real-world coding challenges together!\n\nBelieving in the power of collaboration! CoDev Community is here to bring students and developers together to build amazing things, support each other's growth, and shape the future of tech.\n\n💪 Level up your skills and join the CoDev Community today! Join our first event: Introduction to GitHub! Learn the basics and unlock your Git power.",
+        "link": "https://www.linkedin.com/posts/codev-th-community_community-bangkokuniversity-student-activity-7195148466300334081-jo8b?utm_source=share&utm_medium=member_desktop"
+    }
+]
